@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+flask_study_env/
+.idea/*
+.idea/workspace.xml
+.DS_Storegit
